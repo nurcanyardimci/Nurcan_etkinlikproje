@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CoreLayer",
+    "\\DataAccessLayer",
+    "\\DataAccessLayer\\Concreate",
+    "\\EntityLayer",
+    "\\EntityLayer\\Concreate",
+    "\\Nurcan_etkinlik"
+  ],
+  "SelectedNode": "\\DataAccessLayer\\Concreate\\Context.cs",
+  "PreviewInSolutionExplorer": false
+}
